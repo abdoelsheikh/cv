@@ -1,0 +1,95 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.head img {
+  width: 150px;
+  height: 150px;
+  border-radius: 3rem;
+  filter: brightness(1.5);
+}
+
+.head {
+  display: flex;
+  justify-content: center;
+  padding: 34px;
+}
+
+body {
+  background-color: white;
+}
+
+.header {
+  border-right: 9px solid #66DE93;
+  width: 100%;
+  text-align: center;
+}
+
+.justify {
+  display: flex;
+  justify-content: space-around;
+  align-content: center;
+}
+
+.left {
+  text-align: center;
+  width: 100%;
+}
+.word {
+  padding: 0 39%;
+    text-align: left;
+}
+.space{
+  margin-bottom: 15px;
+}
+.email {
+  text-align: left;
+
+}
+.pg{
+  display: flex;
+justify-content: center;
+    padding: 24px 0;
+}
+.header2{
+  border-right: 4px solid #66DE93;
+  width: 100%;
+  text-align: center;
+}
+.space2{
+  border-right: 4px solid #66DE93;
+width: 100%;
+text-align: left;
+padding: 0 196px;
+margin: 21px;
+}
+.word2{
+  padding: 0 224px;
+    text-align: left;
+}
+
+
+.email2{
+  width: 40%;
+    margin: auto;
+    text-align: left;
+}
+.two {
+  list-style: none;
+  text-align: center;
+}
+.border {
+  border-right: 49px solid #66DE93;
+    border-left: 49px solid #66DE93;
+    margin: 10px;
+
+}
+.myborder{
+  display: flex;
+    justify-content: center;
+}
+.myborder img{
+  position: relative;
+    left: -2.3%;
+}
