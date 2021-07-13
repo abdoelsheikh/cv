@@ -35,6 +35,7 @@
     height: 60%;
     border-radius: 3rem;
     filter: brightness(1.5);
+        margin: -49px 0px -13px 0px !important;
 }
 .left-two {
 display:none;
@@ -46,4 +47,14 @@ display:none;
 }
 .space-two{
   margin: 34px 0px 27px 1px;
+}
+.f{
+      width: 8% !important;
+
+}
+.w{
+      width: 8% !important;
+}
+.e{
+    width: 8% !important;
 }

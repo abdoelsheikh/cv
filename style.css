@@ -8,6 +8,7 @@
   height: 150px;
   border-radius: 3rem;
   filter: brightness(1.5);
+  margin: 30px 0 0 0px;
 }
 
 .head {
@@ -117,9 +118,15 @@ body {
   height: 100%;
 }
 .f{
-      width: 3%;
+      width: 4%;
 
 }
 .w{
-      width: 3%;
+      width: 4%;
+}
+.e{
+    width: 4%;
+}
+.ty{
+  margin: 37px 0 35px 0px;
 }
