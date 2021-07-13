@@ -1,0 +1,49 @@
+@media (max-width: 767px) {
+  .myborder img {
+    width: 89%;
+}
+.mam {
+  font-size: 8px;
+  margin: 5% 0;
+  font-weight: 900;
+}
+.justify {
+  display: flex;
+  flex-direction: column-reverse;
+}
+.justify-2 {
+  display: flex;
+  flex-direction: column;
+}
+.email2 {
+    width: 80%;
+}
+.word {
+    padding: 0 0 0 19%;
+}
+.two {
+  padding: 0 0 0 10%;
+}
+.space {
+    font-size: 13px;
+}
+.header {
+    margin: 10% 0 0 0;
+}
+.head img {
+    width: 60%;
+    height: 60%;
+    border-radius: 3rem;
+    filter: brightness(1.5);
+}
+.left-two {
+display:none;
+}
+.tr{
+  display: block !important;
+  width: 70px;
+    margin: 25px 0 0 35%;
+}
+.space-two{
+  margin: 34px 0px 27px 1px;
+}
