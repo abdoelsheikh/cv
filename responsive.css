@@ -49,12 +49,12 @@ display:none;
   margin: 34px 0px 27px 1px;
 }
 .f{
-      width: 6%;
+      width: 8% !important;
 
 }
 .w{
-      width: 6%;
+      width: 8% !important;
 }
-.s{
-    width: 6%;
+.e{
+    width: 8% !important;
 }
