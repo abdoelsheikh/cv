@@ -61,3 +61,8 @@ display:none;
 .download{
   width: 8% !important;
 }
+.border {
+    border-right: 30px solid #66DE93 !important;
+    border-left: 30px solid #66DE93 !important;
+    margin: 1px !important;
+}
